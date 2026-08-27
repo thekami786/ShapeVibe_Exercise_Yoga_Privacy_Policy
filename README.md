@@ -77,6 +77,5 @@ We may update our Privacy Policy periodically to reflect new features or regulat
 
 If you have questions, feedback, or data privacy requests regarding ShapeVibe, please reach out to us:
 
-* **Developer Profile:** [https://github.com/thekami786](https://github.com/thekami786)
 * **GitHub Repository:** [https://github.com/thekami786/ShapeVibe_Exercise_Yoga_Privacy_Policy](https://github.com/thekami786/ShapeVibe_Exercise_Yoga_Privacy_Policy)
 * **Contact Email:** [thekami786@gmail.com](mailto:thekami786@gmail.com)
